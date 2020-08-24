@@ -1,0 +1,451 @@
+('d:\\Private\\Work\\Python\\TCSoftEQAP\\venv\\build\\EQAPBox\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'd:\\Private\\Work\\Python\\TCSoftEQAP\\venv\\build\\EQAPBox\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'd:\\program files (x86)\\python37\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('EQAPBox',
+   'd:\\Private\\Work\\Python\\TCSoftEQAP\\venv\\EQAPBox.py',
+   'PYSOURCE'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('python37.dll', 'd:\\program files (x86)\\python37\\python37.dll', 'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'd:\\program files (x86)\\python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA384.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_SHA384.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ecb.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_ecb.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_des.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_arc2.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_arc2.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_chacha20.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_chacha20.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ocb.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_ocb.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2s.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2s.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_portable.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_ghash_portable.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_RIPEMD160.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_RIPEMD160.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_cpuid_c.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Util\\_cpuid_c.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('libopenblas.TXA6YQSD3GCQQC22GEQ54J2UDCXDXHWN.gfortran-win_amd64.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\.libs\\libopenblas.TXA6YQSD3GCQQC22GEQ54J2UDCXDXHWN.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD2.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_MD2.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_strxor.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Util\\_strxor.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA224.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_SHA224.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_Salsa20.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_Salsa20.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cbc.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_cbc.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aes.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_aes.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_clmul.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_ghash_clmul.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA1.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_SHA1.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Protocol\\_scrypt.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Protocol\\_scrypt.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD5.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_MD5.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_blowfish.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_blowfish.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA256.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_SHA256.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aesni.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_aesni.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des3.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_des3.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD4.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_MD4.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ec_ws.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\PublicKey\\_ec_ws.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ctr.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_ctr.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cast.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_cast.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2b.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2b.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_eksblowfish.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_eksblowfish.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA512.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_SHA512.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_poly1305.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_poly1305.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Math\\_modexp.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Math\\_modexp.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ofb.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_ofb.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_ARC4.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_ARC4.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cfb.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Cipher\\_raw_cfb.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_keccak.cp37-win_amd64.pyd',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\Crypto\\Hash\\_keccak.cp37-win_amd64.pyd',
+   'BINARY'),
+  ('_ctypes',
+   'd:\\program files (x86)\\python37\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'd:\\program files (x86)\\python37\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select',
+   'd:\\program files (x86)\\python37\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'd:\\program files (x86)\\python37\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma', 'd:\\program files (x86)\\python37\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2', 'd:\\program files (x86)\\python37\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_ssl', 'd:\\program files (x86)\\python37\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata',
+   'd:\\program files (x86)\\python37\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'd:\\program files (x86)\\python37\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'd:\\program files (x86)\\python37\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'd:\\program files (x86)\\python37\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_sqlite3',
+   'd:\\program files (x86)\\python37\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\_cffi_backend.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_tests',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_umath',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\random\\mtrand.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft.fftpack_lite',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\fft\\fftpack_lite.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'd:\\program files (x86)\\python37\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'd:\\program files (x86)\\python37\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'd:\\program files (x86)\\python37\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'd:\\program files (x86)\\python37\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk1.8.0_202\\\\jre\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'd:\\Private\\Work\\Python\\TCSoftEQAP\\venv\\build\\EQAPBox\\base_library.zip',
+   'DATA'),
+  ('lib2to3\\PatternGrammar.txt',
+   'd:\\program files (x86)\\python37\\lib\\lib2to3\\PatternGrammar.txt',
+   'DATA'),
+  ('lib2to3\\Grammar3.7.4.final.0.pickle',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\lib2to3\\Grammar3.7.4.final.0.pickle',
+   'DATA'),
+  ('lib2to3\\PatternGrammar3.7.4.final.0.pickle',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\lib2to3\\PatternGrammar3.7.4.final.0.pickle',
+   'DATA'),
+  ('lib2to3\\Grammar.txt',
+   'd:\\program files (x86)\\python37\\lib\\lib2to3\\Grammar.txt',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'd:\\program files (x86)\\python37\\Include\\pyconfig.h',
+   'DATA'),
+  ('lib2to3\\tests\\data\\README',
+   'd:\\program files (x86)\\python37\\lib\\lib2to3\\tests\\data\\README',
+   'DATA'),
+  ('EQAPBox.exe.manifest',
+   'd:\\Private\\Work\\Python\\TCSoftEQAP\\venv\\build\\EQAPBox\\EQAPBox.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename EQAPBox.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False,
+ [])

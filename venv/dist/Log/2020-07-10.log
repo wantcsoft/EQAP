@@ -1,0 +1,14 @@
+2020-07-10 16:27:19,455	 - PublicMethods.py[line:63]	 -  Start to read ini config to get deive info, TerminalID=99990493, TimeSequence=0, RetryTimes = 3
+2020-07-10 16:27:19,456	 - PublicMethods.py[line:63]	 -  Read device info from database
+2020-07-10 16:27:19,458	 - PublicMethods.py[line:63]	 -  Read instrument info from database
+2020-07-10 16:27:19,462	 - PublicMethods.py[line:63]	 -  PortName:com1, baudrate:9600 for instrument:ITC98_1 is open
+2020-07-10 16:27:19,464	 - PublicMethods.py[line:63]	 -  Create thread to process data from serial port
+2020-07-10 16:27:19,464	 - PublicMethods.py[line:63]	 -  Start serial port thread to receive data
+2020-07-10 16:27:19,464	 - PublicMethods.py[line:63]	 -  Start thread which process data received from serial ports
+2020-07-10 16:35:54,574	 - PublicMethods.py[line:63]	 -  Start to read ini config to get deive info, TerminalID=99990493, TimeSequence=0, RetryTimes = 3
+2020-07-10 16:35:54,574	 - PublicMethods.py[line:63]	 -  Read device info from database
+2020-07-10 16:35:54,577	 - PublicMethods.py[line:63]	 -  Read instrument info from database
+2020-07-10 16:35:54,579	 - PublicMethods.py[line:63]	 -  PortName:com1, baudrate:9600 for instrument:ITC98_1 is open
+2020-07-10 16:35:54,580	 - PublicMethods.py[line:63]	 -  Create thread to process data from serial port
+2020-07-10 16:35:54,581	 - PublicMethods.py[line:63]	 -  Start serial port thread to receive data
+2020-07-10 16:35:54,581	 - PublicMethods.py[line:63]	 -  Start thread which process data received from serial ports
