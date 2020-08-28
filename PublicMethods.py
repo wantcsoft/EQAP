@@ -41,20 +41,20 @@ class PublicMethods:
         return self.ErrorCode
 
     # 设置是否记录日子参数
-    def SetSaveLogFlag(self,nSaveLog):
+    def SetSaveLogFlag(self, nSaveLog):
         self.SaveLog = nSaveLog
 
     # 从配置的列表中返回键值对应的属性
-    def ReadConfig(self,strSection,strKey):
-        return self.config.get(strSection,strKey)
+    # def ReadConfig(self, strSection, strKey):
+    #     return self.config.get(strSection, strKey)
 
     # 字节数据转换为十六进制字符串
-    def BytesToHex(self,bytesData):
+    def BytesToHex(self, bytesData):
         return ''.join(["%02X" % x for x in bytesData]).strip()
 
     # 十六进制字符串转化为字节
-    def HexToBytes(self, str):
-        return bytes.fromhex(str)
+    def HexToBytes(self, string):
+        return bytes.fromhex(string)
 
     # 记录日志信息
     def Log(self, strMsg):
@@ -64,7 +64,7 @@ class PublicMethods:
         self.Logger.info(strMsg)
 
     # 判断是否是数字
-    def IsNumeric(self,value):
+    def IsNumeric(self, value):
         try:
             float(value)
             return True
