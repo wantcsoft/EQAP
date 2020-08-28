@@ -1,0 +1,5 @@
+2020-08-25 13:05:20,131	 - PublicMethods.py[line:64]	 -  Start to read ini config to get deive info, TerminalID=99990493, TimeSequence=0, RetryTimes = 3
+2020-08-25 13:05:20,131	 - PublicMethods.py[line:64]	 -  Read device info from database
+2020-08-25 13:05:20,131	 - PublicMethods.py[line:64]	 -  ip = 122.144.182.35, port = 6433
+2020-08-25 13:05:20,131	 - PublicMethods.py[line:64]	 -  Read instrument info from database
+2020-08-25 13:05:20,131	 - PublicMethods.py[line:64]	 -  PortName:com1, baudrate:9600 for instrument:ITC98_1 is open

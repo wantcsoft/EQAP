@@ -1,4 +1,4 @@
-#!D:\Private\Work\Python\TCSoftEQAP\venv\Scripts\python.exe
+#!D:\pythonWorkSpace\EQAP\venv\Scripts\python.exe
 #
 # Very simple serial terminal
 #
