@@ -442,7 +442,8 @@ if __name__ == "__main__":
     eqap = EQAPBox()
     eqap.Start()
 
-    sqlite = SqliteHelper('/home/projects/EQAP/DB/Eqap.DB')
+    # sqlite = SqliteHelper('/home/projects/EQAP/DB/Eqap.DB')
+    # sqlite = SqliteHelper('./DB/Eqap.DB')
 
 
     # sqlite.ExecuteSqlCmd('''ALTER TABLE BSC_InstrumentInfo ADD COLUMN InstrumentID NVARCHAR(128)''')
@@ -476,7 +477,7 @@ if __name__ == "__main__":
 
     # #/dev/ttyXRUSB0
     # #/dev/ttyXRUSB0
-    # sqlite.ExecuteSqlCmd('''UPDATE  BSC_InstrumentInfo SET PortName = '/dev/ttyXRUSB0',IsActive = True WHERE InstrumentSerialNo = 'AU5800-1_SerialNo' ''')
+    # sqlite.ExecuteSqlCmd('''UPDATE  BSC_InstrumentInfo SET PortName = '/dev/tty',IsActive = True WHERE InstrumentSerialNo = 'AU5800-1_SerialNo' ''')
 
     # sqlite.ExecuteSqlCmd('''DELETE FROM BSC_InstrumentInfo WHERE InstrumentSerialNo = 'AU5800-2_SerialNo' ''')
 
