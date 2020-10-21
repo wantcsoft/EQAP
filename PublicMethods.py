@@ -14,7 +14,7 @@ class PublicMethods:
     # 初始化日志记录对象
     def InitLoggerInfo(self):
         try:
-            self.LogFileFormat = '/home/projects/EQAP/Log/{}.log'
+            self.LogFileFormat = './Log/{}.log'
             logFilePath = os.path.split(self.LogFileFormat)[0]
             if not os.path.exists(logFilePath):
                 os.mkdir(logFilePath)

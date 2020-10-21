@@ -8,12 +8,7 @@ from time import sleep
 from AesCrypt import AesCrypt
 from PublicMethods import PublicMethods
 from SqliteHelper import SqliteHelper
-from Models.CommDataModel import CommDataModel
-from Models.DeviceInfoMode import DeviceInfoModel
-from Models.SysConfigInfoModel import SysConfigInfo
 from Protocol.ProtocolMgmt import ProtocolMgmt
-from Models.QCSampleSetupInfoModel import QCSamlpeSetupInfo
-from Protocol.ProtocolMsgFieldInfoModel import ProtocolMsgFieldInfo
 
 
 class EQAPBox:
@@ -31,7 +26,8 @@ class EQAPBox:
         self.DataStartFlag = 2
         self.DataEndFlag = 3
 
-        self.DBFileName = '/home/projects/EQAP/DB/Eqap.DB'
+        self.DBFileName = './DB/Eqap.DB'
+        # self.DBFileName = '/home/projects/EQAP/DB/Eqap.DB'
         self.Sqlite = SqliteHelper(self.DBFileName)
         self.SysConfig = self.Sqlite.GetSysConfig()
 
